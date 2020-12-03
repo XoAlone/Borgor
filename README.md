@@ -3,7 +3,7 @@ It is just a simple function that I made so that you can generate anime girls ea
 
 
 # Instructions
-`npm i borgor`
+`npm i @borgor/borgor`
 
 # Docs
 **generateBorgor()** - This is the only function in the package.
