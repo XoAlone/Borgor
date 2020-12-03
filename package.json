@@ -1,6 +1,6 @@
 {
   "name": "borgor",
-  "version": "2.0.2",
+  "version": "2.1.0",
   "dependencies": {
     "imgur": "0.3.1"
   },
