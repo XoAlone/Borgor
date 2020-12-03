@@ -1,17 +1,18 @@
 {
   "name": "borgor",
-  "version": "1.0.1",
+  "version": "2.0.2",
+  "dependencies": {
+    "imgur": "0.3.1"
+  },
   "description": "It is just a simple function that I made so that you can generate anime girls eating burgers and you can do whatever you want with it!",
   "main": "borgor.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/XoAlone/Borgor.git"
   },
   "keywords": [
-    "borgor"
+    "borgor",
+    "borgor-generator"
   ],
   "author": "XoAlone",
   "license": "ISC",
